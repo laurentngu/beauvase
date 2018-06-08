@@ -1,0 +1,126 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+/* Webbax - Tuto 43 - Bannières multiples Homepage */
+#banners_home  .img-responsive {width: 85%;height: auto;}
+#banners_home .bloc {margin-bottom:20px;}
+#banners_home a img:hover{opacity: 0.75;filter: alpha(opacity=75); /* For IE8 and earlier */}
+/* end Webbax Tuto 43 */
+
+#banners_homepage .img-responsive {
+   width: 100%;
+    height: auto;}
+
+body.page-index #wrapper .container {
+    max-width: 100%;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body.page-index #wrapper .featured-products,
+body.page-index #wrapper .banner,
+body.page-index #wrapper #custom-text{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+@media (min-width: 992px) {
+    body.page-index #wrapper .featured-products,
+    body.page-index #wrapper .banner,
+    body.page-index #wrapper #custom-text{
+        max-width: 940px;
+    }
+}
+@media (min-width: 1200px) {
+    body.page-index #wrapper .featured-products,
+    body.page-index #wrapper .banner,
+    body.page-index #wrapper #custom-text{
+        max-width: 1140px;
+    }
+}
+@media (max-width: 991px) {
+    body.page-index #wrapper .featured-products,
+    body.page-index #wrapper .banner,
+    body.page-index #wrapper #custom-text{
+        max-width: 100%;
+    }
+}
+
+.rightdiv   /* picture homepage */
+{overflow: hidden;
+
+}
+
+.leftdiv
+{
+    background-color: #f8f2e7;
+    width:30%;
+    height:auto;
+    float:left;
+    overflow: hidden;
+    padding: 10px;
+    margin:30px;
+    /* max-height:100%; max-width:100%;  */
+}
+
+/*
+.dynamic {
+    width: 75%;
+    float: left;
+    background-color: yellow;
+}
+
+.static {
+     width: 25%;
+    float: left;
+     background-color: #f8f2e7;
+
+    padding: 70px;
+    position: center;
+    vertical-align: center;
+}
+
+.clear {
+    clear: both;
+}
+*/
+
+#Container
+{
+    position: relative;
+    display: table;
+    width: 100%;
+    /* width: 100%; */
+    margin-left:5%;
+   /* margin-right:5%; */
+}
+.Column
+{
+   width: 70%;
+    background-color: #f8f2e7;
+    min-width: 20px;
+    min-height: 20px;
+    /* padding: 13px; */
+    display:inline-block;
+}
+.Static
+{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    overflow: auto;
+    background-color: #f8f2e7;
+    max-width: 350px;
+
+}
+
+#imgContainer {
+    min-width: 20px;
+    min-height: 20px;
+    padding: 13px;
+    display:inline-block;
+}
