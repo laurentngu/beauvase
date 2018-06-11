@@ -72,7 +72,7 @@
 
 
 <div id="banners_homepage" >
-    <img src="{$urls.base_url}img/homepage.jpg" class="img-responsive">
+    <img src="{$urls.base_url}img/homepage2-bis.jpg" class="img-responsive">
 </div>
 <br>
 
@@ -123,6 +123,7 @@
 
 -->
 
+{*   not as good as the rivalrugs.com
 <div id="Container">
     <div  class="Column">
         <a href="http://127.0.0.1/en/3-collection-le-beau">
@@ -131,7 +132,7 @@
 
     <div class="Column Static" >
         <h2>Contemporary Collection</h2><br>
-            <h2>Le Beau</h2><br>
+            <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLe Beau</h2><br>
                 <br><br>
         <button type="button" class="btn-primary"> Shop Le Beau</button>
     </div>
@@ -147,15 +148,70 @@
 
         <div class="Column Static" >
             <h2>The Old World Charm</h2><br>
-            <h2>Tuscan Sun</h2><br>
+            <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTuscan Sun</h2><br>
 
             <br><br>
             <button type="button" class="btn-primary"> Shop Tuscan Sun</button>
         </div>
     </div>
+*}
 
 
+</div>
 
+<div id="shopify-section-1482528552957" class="shopify-section image-with-text-section">
+    <div class="featured_collections clearfix grid-layout--standard  container ">
+        <section class="featured-link--section featured-link--image section-1 sixteen columns">
+            <div class="featured-link--half featured-link--image">
+                <div class="featured-link--wrap">
+                        <a href="http://127.0.0.1/en/3-collection-le-beau" title="Le Beau">
+                        <img sizes="(min-width: 36em) 33.3vw, 100vw" src="{$urls.base_url}img/collection-1-{$language.iso_code}.png" alt="{$title_{$language.iso_code}.$k}" title="{$title_{$language.iso_code}.$k}" class="lazyload transition-in" alt="Revival Picks">
+                    </a>
+                </div>
+            </div>
+            <div class="featured-link--half">
+                <div class="info text-align--left">
+                    <h1> <a href="http://127.0.0.1/en/3-collection-le-beau" title="Le Beau">
+                            Contemporary Collection <br> Le Beau<br><br>
+
+                    </h1>
+                    <button type="button" class="btn-primary"> Shop Le Beau</button></a>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="featured-link--section featured-link--image section-2 sixteen columns">
+            <div class="featured-link--half featured-link--image">
+                <div class="featured-link--wrap">
+                        <a href="http://127.0.0.1/en/6-charm-tuscan-sun" title="Collection Charm Tuscan">
+                        <img sizes="(min-width: 36em) 33.3vw, 100vw" src="{$urls.base_url}img/collection-2-{$language.iso_code}.png" class="lazyload transition-in" alt="The Anatolian Collection">
+                    </a>
+                </div>
+            </div>
+            <div class="featured-link--half">
+                <div class="info text-align--left">
+                      <h1>  <a href="http://127.0.0.1/en/6-charm-tuscan-sun" title="Collection Charm Tuscan">
+                        The Old World Charm <br> Tuscan Sun
+                          </h1><br>
+                    <button type="button" class="btn-primary"> Shop Tuscan Sun</button>
+                    </a>
+
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+
+</div>
+
+<p>
+   &nbsp;&nbsp; <button class="btn-action" onclick="myMove()" style="position: center;">Click Me to Test Javascript<br> it will launch the red ball</button>
+</p>
+
+<div id ="myContainerX">
+    <div id ="myAnimationX"></div>
 </div>
 
 

@@ -79,9 +79,10 @@
           {/foreach}
         </ul>
       {/block}
-
+  {* commented by Laurent on 06/10/2018 to disable "quick view"
       <div class="highlighted-informations{if !$product.main_variants} no-variants{/if} hidden-sm-down">
         {block name='quick_view'}
+
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> {l s='Quick view' d='Shop.Theme.Actions'}
           </a>
@@ -91,9 +92,11 @@
           {if $product.main_variants}
             {include file='catalog/_partials/variant-links.tpl' variants=$product.main_variants}
           {/if}
+
         {/block}
       </div>
-
+    *}
     </div>
+
   </article>
 {/block}

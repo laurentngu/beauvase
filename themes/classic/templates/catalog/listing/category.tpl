@@ -25,6 +25,7 @@
 {extends file='catalog/listing/product-list.tpl'}
 
 {block name='product_list_header'}
+    <!-- commented by Laurent 06/10/2018
     <div class="block-category card card-block hidden-sm-down">
       <h1 class="h1">{$category.name}</h1>
       {if $category.description}
@@ -39,4 +40,6 @@
     <div class="text-sm-center hidden-md-up">
       <h1 class="h1">{$category.name}</h1>
     </div>
+
+    -->
 {/block}

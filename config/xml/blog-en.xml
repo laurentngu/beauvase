@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>3 reasons on why to visit PrestaShop at IRCE in Chicago, USA </title>
+    <link>https://www.prestashop.com/en/blog/visit-irce</link>
+    <description>PrestaShop will be present at IRCE 2018 exhibition, from 5th to 8th of June at the Mc Cormick Place.</description>
+     <pubDate>Mon, 04 Jun 2018 15:21:02 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/visit-irce</guid>
+  </item>
+  <item>
+    <title>Meet Hussein, Ambassador of the month | May 2018</title>
+    <link>https://www.prestashop.com/en/blog/ambassador-hussein-casablanca</link>
+    <description>About you
+Three words to best describe you:
+Ambitious, professional and fan of challenges.</description>
+     <pubDate>Fri, 01 Jun 2018 16:05:22 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ambassador-hussein-casablanca</guid>
+  </item>
+  <item>
+    <title>What is Dropshipping ? PrestaShop Modules for Dropshipping </title>
+    <link>https://www.prestashop.com/en/blog/what-is-dropshipping-prestashop</link>
+    <description>The search for profitable business and the boom in online sales have made Dropshipping a sales model that is currently gaining more and more followers.</description>
+     <pubDate>Wed, 30 May 2018 14:15:21 +0200</pubDate>
+ <dc:creator>Habiba Ouenniche</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/what-is-dropshipping-prestashop</guid>
+  </item>
+  <item>
+    <title>The EAN/UPC Barcode and Marketplaces</title>
+    <link>https://www.prestashop.com/en/blog/the-ean-barcodes-and-marketplaces</link>
+    <description>Amazon Marketplace has always imposed EAN/UPC barcodes as universal product coding for all its flow of traders.</description>
+     <pubDate>Mon, 28 May 2018 16:20:55 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/the-ean-barcodes-and-marketplaces</guid>
+  </item>
+  <item>
+    <title>MailChimp for PrestaShop: Email Marketing Best Practices</title>
+    <link>https://www.prestashop.com/en/blog/mailchimp-for-prestashop-email-marketing-best-practices</link>
+    <description>As a small business owner, there are tons of ways to make the most of your marketing, from setting up retargeting ads to acquire new customers, to showing appreciation to your most loyal shoppers, </description>
+     <pubDate>Fri, 25 May 2018 17:06:50 +0200</pubDate>
+ <dc:creator>mailchimp</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/mailchimp-for-prestashop-email-marketing-best-practices</guid>
+  </item>
+  <item>
+    <title>Participate to the Presta World Cup ! </title>
+    <link>https://www.prestashop.com/en/blog/presta-world-cup</link>
+    <description>PrestaShop stores around the world are invited to take part in this major event to celebrate the success of our sellers!</description>
+     <pubDate>Wed, 23 May 2018 18:29:56 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/presta-world-cup</guid>
+  </item>
+  <item>
+    <title>3 Key Considerations for a Seamless Digital Onboarding Experience</title>
+    <link>https://www.prestashop.com/en/blog/3-key-considerations-for-a-seamless-digital-onboarding-experience</link>
+    <description>Online merchants, especially those who are new to the eCommerce space, are on a difficult mission nowadays.
+The industry at a glance</description>
+     <pubDate>Wed, 23 May 2018 16:38:22 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/3-key-considerations-for-a-seamless-digital-onboarding-experience</guid>
+  </item>
+  <item>
+    <title>Best Practices and Optimizations for your Product Page</title>
+    <link>https://www.prestashop.com/en/blog/best-practices-and-optimizations-for-your-product-page</link>
+    <description>Your product page is where potential customers make the ultimate decision: to buy or not to buy.</description>
+     <pubDate>Wed, 16 May 2018 17:11:51 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/best-practices-and-optimizations-for-your-product-page</guid>
+  </item>
+  <item>
+    <title>Business are only as good as the technology allows it to be. Even online.</title>
+    <link>https://www.prestashop.com/en/blog/business-are-only-as-good-as-the-technology-allows-it-to-be-even-online</link>
+    <description>After an exciting day at the E-Commerce exhibition together with PrestaShop in Krakow I once again think about the e-commerce industry having such a ”limited / technical&quot; view of how consumers feel</description>
+     <pubDate>Thu, 03 May 2018 18:28:56 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/business-are-only-as-good-as-the-technology-allows-it-to-be-even-online</guid>
+  </item>
+  <item>
+    <title>Meet Panagiotis &amp;amp; Alexius, Ambassadors of the month | April 2018</title>
+    <link>https://www.prestashop.com/en/blog/ambassador-alexius-panagiotis-athens</link>
+    <description>We chose Panagiotis &amp;amp; Alexius as Ambassadors of the month for their involvement and motivation towards the Greek community.</description>
+     <pubDate>Thu, 03 May 2018 00:00:00 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ambassador-alexius-panagiotis-athens</guid>
+  </item>
+  </channel>
+</rss>

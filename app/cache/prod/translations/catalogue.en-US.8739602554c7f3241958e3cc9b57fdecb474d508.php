@@ -93,7 +93,7 @@ $catalogue = new MessageCatalogue('en-US', array (
   ),
   'ShopThemeGlobal' => 
   array (
-    '%copyright% %year% - Ecommerce software by %prestashop%' => '%copyright% %year% - WICOM',
+    '%copyright% %year% - Ecommerce software by %prestashop%' => '%copyright% %year% - design by WICOM',
     'Undefined' => 'Undefined',
     'Home' => 'Home',
     'Addresses' => 'Addresses',

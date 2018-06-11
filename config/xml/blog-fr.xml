@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Le futur de la logistique E-commerce :  5 tendances qui vont bouleverser la supply chain</title>
+    <link>https://www.prestashop.com/fr/blog/le-futur-de-la-logistique-e-commerce</link>
+    <description>Depuis l’arrivée des robots nouvelle génération dans les entrepôts à la livraison de colis par drônes, la supply chain se voit profondément transformée et constitue un changement de paradigme majeu</description>
+     <pubDate>Wed, 06 Jun 2018 11:20:47 +0200</pubDate>
+ <dc:creator>Habiba Ouenniche</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/le-futur-de-la-logistique-e-commerce</guid>
+  </item>
+  <item>
+    <title>J-7 : PrestaShop Day Paris 2018, prêt pour décoller ensemble ? </title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-day-paris-2018</link>
+    <description>Le PrestaShop Day Paris arrive dans 1 semaine et nous avons hâte de vous accueillir !</description>
+     <pubDate>Wed, 06 Jun 2018 10:13:50 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-day-paris-2018</guid>
+  </item>
+  <item>
+    <title>Rencontrez Hussein, notre Ambassadeur du mois | Mai 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeur-hussein-maroc</link>
+    <description>A propos de vous
+Trois mots pour mieux vous décrire :
+Ambitieux, professionnel et fan des défis.</description>
+     <pubDate>Fri, 01 Jun 2018 15:26:49 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeur-hussein-maroc</guid>
+  </item>
+  <item>
+    <title>PrestaShop Day Paris 2018, l’évènement eCommerce incontournable de l’année</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-day-paris-2018-levenement-e-commerce-incontournable-de-lannee</link>
+    <description>Pour sa 4ème édition, Le PrestaShop Day Paris réinvestit les lieux de la Cité de la Mode et du Design situés au coeur de Paris, le 14 juin prochain.</description>
+     <pubDate>Thu, 31 May 2018 14:08:05 +0200</pubDate>
+ <dc:creator>Marine</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-day-paris-2018-levenement-e-commerce-incontournable-de-lannee</guid>
+  </item>
+  <item>
+    <title>Qu’est-ce que le dropshipping ? Modules PrestaShop dédiés au dropshipping  </title>
+    <link>https://www.prestashop.com/fr/blog/quest-ce-que-le-dropshipping</link>
+    <description>La quête d’activités rentables et l’essor de la vente en ligne ont fait du « dropshipping » un modèle commercial qui a aujourd’hui le vent en poupe et compte de plus en plus d’adeptes.</description>
+     <pubDate>Wed, 30 May 2018 15:54:58 +0200</pubDate>
+ <dc:creator>Habiba Ouenniche</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/quest-ce-que-le-dropshipping</guid>
+  </item>
+  <item>
+    <title>Comment faire de vos visiteurs vos meilleurs clients ?</title>
+    <link>https://www.prestashop.com/fr/blog/comment-faire-de-vos-visiteurs-vos-meilleurs-clients</link>
+    <description>Comment faire de vos visiteurs vos meilleurs clients ?</description>
+     <pubDate>Tue, 29 May 2018 18:48:26 +0200</pubDate>
+ <dc:creator>PayPlug</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comment-faire-de-vos-visiteurs-vos-meilleurs-clients</guid>
+  </item>
+  <item>
+    <title>MailChimp pour PrestaShop : Meilleures pratiques de marketing par e-mail</title>
+    <link>https://www.prestashop.com/fr/blog/mailchimp-pour-prestashop-meilleures-pratiques-de-marketing-par-e-mail</link>
+    <description>Pour les petites entreprises, il existe une multitude de façons de tirer le meilleur parti de votre marketing, depuis la configuration des annonces de reciblage en vue d&#039;acquérir de nouveaux client</description>
+     <pubDate>Fri, 25 May 2018 16:49:22 +0200</pubDate>
+ <dc:creator>mailchimp</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/mailchimp-pour-prestashop-meilleures-pratiques-de-marketing-par-e-mail</guid>
+  </item>
+  <item>
+    <title> Découvrez les solutions de PrestaShop en réponse aux nouvelles exigences en matière de protection des données.</title>
+    <link>https://www.prestashop.com/fr/blog/decouvrez-les-solutions-de-prestashop-en-reponse-aux-nouvelles-exigences-en-matiere-de-protection-des-donnees-2</link>
+    <description>Comme vous le savez, le 25 mai prochain entrera en application le nouveau texte en matière de protection des données à caractère personnel.</description>
+     <pubDate>Fri, 25 May 2018 10:26:38 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/decouvrez-les-solutions-de-prestashop-en-reponse-aux-nouvelles-exigences-en-matiere-de-protection-des-donnees-2</guid>
+  </item>
+  <item>
+    <title>Participez à la Presta World Cup !</title>
+    <link>https://www.prestashop.com/fr/blog/presta-world-cup</link>
+    <description>Les boutiques PrestaShop du monde entier sont invitées à participer à ce grand événement qui célèbre la réussite de nos marchands !</description>
+     <pubDate>Wed, 23 May 2018 18:13:47 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/presta-world-cup</guid>
+  </item>
+  <item>
+    <title>PrestaShop, Codes EAN et Places de Marché</title>
+    <link>https://www.prestashop.com/fr/blog/codes-ean-places-de-marche</link>
+    <description>Vous êtes e-commerçant, vous utilisez PrestaShop, vous souhaitez vous développer sur les places de marché, vous n’avez pas de codes EAN et vous vous demandez comment faire ?</description>
+     <pubDate>Tue, 22 May 2018 12:33:39 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/codes-ean-places-de-marche</guid>
+  </item>
+  </channel>
+</rss>
